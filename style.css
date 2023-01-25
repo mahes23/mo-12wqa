@@ -661,14 +661,14 @@ html{
     }
     .academics{
         background-image: url('images/acadamicback1.png');
-        height: 90vh;
+        height: 70vh;
         background-repeat: no-repeat;
         background-size: cover;
-         margin-top:540%;
+         margin-top:640%;
     }
     .footter{
         background-color:rgb(4, 4, 114); ;
-        margin-top:90vh;
+        margin-top:400%;
     
    }
     
